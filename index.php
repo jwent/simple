@@ -21,7 +21,7 @@
             <a href="/?page=contact-us">Contact</a>
         </nav>
     </header>    
-
+<p>changed!</p>
     <article>
         <h3><?php pageTitle(); ?></h3>
         <?php pageContent(); ?>
